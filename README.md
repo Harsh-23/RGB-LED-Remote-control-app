@@ -1,16 +1,10 @@
-# remote
+# RGB LED Remote control
+ 
+###### An app built in Flutter which can control RGB LED Strip lights & Bulbs [Device must have IR Sensor]
+###### This app supports Sylvania RGB remote and IRC240S RGB remote (24Keys)
+---
+### Screenshot
+<img src="https://telegra.ph/file/a8c2e920e2abefa996c77.png" width="320">  
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Download
+[Download latest version](https://github.com/Harsh-23/RGB-LED-Remote-control-app/releases)
